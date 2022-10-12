@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="edt_message">Enter your Message</string>
+    <string name="btn_send">Send</string>
+</resources>

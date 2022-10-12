@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="edt_message">Escribe un mensaje</string>
+    <string name="btn_send">Enviar</string>
+</resources>
